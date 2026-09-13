@@ -59,7 +59,7 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ### 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kryss143&theme=react-dark&hide_border=true)
+![Activity Graph](https://raw.githubusercontent.com/kryss143/kryss143/output/activity-graph.svg)
 
 ---
 
