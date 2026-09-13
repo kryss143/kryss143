@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%EF%BC%9CRod+Kristian+Rebarbas%2F%EF%BC%9E;%EF%BC%9Ckryss143%2F%EF%BC%9E;%EF%BC%9CFull+Stack+Developer%2F%EF%BC%9E;%EF%BC%9CMendix+Certified+Intermediate+Developer%2F%EF%BC%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%EF%BC%9CRod+Kristian+Rebarbas%2F%EF%BC%9E;%EF%BC%9Ckryss143%2F%EF%BC%9E;%EF%BC%9CFull+Stack+Developer%2F%EF%BC%9E;%EF%BC%9CMendix+Enthusiast%2F%EF%BC%9E)](https://git.io/typing-svg)
 
 🕹️ Developing applications
 
@@ -10,6 +10,8 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 - 🌐 Portfolio: [krysseportfolio.vercel.app](https://krysseportfolio.vercel.app/)
 - 💼 LinkedIn: [rod-kristian-rebarbas](https://www.linkedin.com/in/rod-kristian-rebarbas/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kryss143&color=3178C6&style=flat&label=Profile+Views)
 
 ---
 
@@ -39,23 +41,31 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ---
 
-### 🏆 GitHub Achievements
-🎯 Quickdraw &nbsp;•&nbsp; 🦈 Pull Shark &nbsp;•&nbsp; 🎲 YOLO
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kryss143&theme=flat&no-frame=true&row=1&column=6)
 
 ---
 
 ### 📊 GitHub Stats
 
 ![kryss143's GitHub stats](https://github-stats-extended.vercel.app/api?username=kryss143&show_icons=true&theme=default)
+
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kryss143&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kryss143&theme=default)
 
 ---
 
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kryss143&theme=react-dark&hide_border=true)
+
+---
+
 ### 🔗 Connect
 
-<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="70" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="70" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="70" height="70" alt="Portfolio" /></a>
 
 <!--
