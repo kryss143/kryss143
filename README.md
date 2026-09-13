@@ -13,9 +13,6 @@
 ### 👤 Profile
  
 A programmer with a strong eagerness to expand knowledge in programming and low-code development, particularly in **Mendix**.
- 
-- 🌐 Portfolio: [krysseportfolio.vercel.app](https://krysseportfolio.vercel.app/)
-- 💼 LinkedIn: [rod-kristian-rebarbas](https://www.linkedin.com/in/rod-kristian-rebarbas/)
 
 ---
 
