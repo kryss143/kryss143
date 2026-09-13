@@ -1,4 +1,55 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+# Hi there, I'm Rod Kristian Rebarbas 👋 (kryss143)
+
+🕹️ Developing applications
+
+A programmer with a strong eagerness to expand knowledge in programming and low-code development, particularly in **Mendix**.
+
+- 🌐 Portfolio: [krysseportfolio.vercel.app](https://krysseportfolio.vercel.app/)
+- 💼 LinkedIn: [rod-kristian-rebarbas](https://www.linkedin.com/in/rod-kristian-rebarbas/)
+
+---
+
+### 🔧 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [application-tracker](https://github.com/kryss143/application-tracker) | An application tracking web app built with Next.js frontend, Next.js server actions, and Supabase | TypeScript |
+| [mini-hcm-app](https://github.com/kryss143/mini-hcm-app) | A mini HCM (Human Capital Management) app using React.js, Node.js, Express.js, and Firebase | JavaScript |
+| [property-management](https://github.com/kryss143/property-management) | A property management system built on the SERN stack (Supabase, Express.js, React.js, Node.js) | TypeScript |
+| [recipe-finder-app](https://github.com/kryss143/recipe-finder-app) | A recipe finder app using Vue, Back4App, and the MealDB REST API | Vue |
+
+---
+
+### 🛠️ Tech & Tools
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Mendix](https://img.shields.io/badge/-Mendix-311B92?style=flat&logo=mendix&logoColor=white)
+
+---
+
+### 🏆 GitHub Achievements
+🎯 Quickdraw &nbsp;•&nbsp; 🦈 Pull Shark &nbsp;•&nbsp; 🎲 YOLO
+
+---
+
+### 📊 GitHub Stats
+
+![kryss143's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryss143&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryss143&layout=compact)
+
+---
+
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/rod-kristian-rebarbas/) or check out my [portfolio](https://krysseportfolio.vercel.app/)!
 
 <!--
 **kryss143/kryss143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
