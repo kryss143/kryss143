@@ -21,8 +21,8 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ### 🔗 Connect
 
-<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="70" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="70" height="70" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Portfolio" /></a>
 
 ---
 
