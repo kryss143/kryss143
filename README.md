@@ -11,8 +11,10 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 - 🌐 Portfolio: [krysseportfolio.vercel.app](https://krysseportfolio.vercel.app/)
 - 💼 LinkedIn: [rod-kristian-rebarbas](https://www.linkedin.com/in/rod-kristian-rebarbas/)
 
+!---
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=kryss143&color=3178C6&style=flat&label=Profile+Views)
-
+ 
 ---
 
 ### 🔧 Featured Projects
