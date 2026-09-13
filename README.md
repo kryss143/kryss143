@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%EF%BC%9CRod+Kristian+Rebarbas%2F%EF%BC%9E;%EF%BC%9Ckryss143%2F%EF%BC%9E;%EF%BC%9CFull+Stack+Developer%2F%EF%BC%9E;%EF%BC%9CMendix+Intermediate+Developer%2F%EF%BC%9E)](https://git.io/typing-svg)
 
 <!--STATUS_START-->
-🕹️ Developing applications
+:joystick: Developing applications
 <!--STATUS_END-->
 
 ---
