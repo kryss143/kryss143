@@ -1,6 +1,8 @@
 <!--## Hi there 👋-->
 
-# Hi there, I'm Rod Kristian Rebarbas 👋 (kryss143)
+### 👋 Hi there, I'm
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Rod+Kristian+Rebarbas;kryss143;Full+Stack+Developer;Mendix+Enthusiast)](https://git.io/typing-svg)
 
 🕹️ Developing applications
 
@@ -45,10 +47,9 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 ### 📊 GitHub Stats
 
 ![kryss143's GitHub stats](https://github-stats-extended.vercel.app/api?username=kryss143&show_icons=true&theme=default)
-
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kryss143&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kryss143&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kryss143&theme=default)
 
 ---
 
