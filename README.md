@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Rod+Kristian+Rebarbas;kryss143;Full+Stack+Developer;Mendix+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%3C%2F%3E+Rod+Kristian+Rebarbas;%3C%2F%3E+kryss143;%3C%2F%3E+Full+Stack+Developer;%3C%2F%3E+Mendix+Enthusiast)](https://git.io/typing-svg)
 
 🕹️ Developing applications
 
