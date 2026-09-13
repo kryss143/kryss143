@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%3C%2F%3E+Rod+Kristian+Rebarbas;%3C%2F%3E+kryss143;%3C%2F%3E+Full+Stack+Developer;%3C%2F%3E+Mendix+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=%EF%BC%9CRod+Kristian+Rebarbas%2F%EF%BC%9E;%EF%BC%9Ckryss143%2F%EF%BC%9E;%EF%BC%9CFull+Stack+Developer%2F%EF%BC%9E;%EF%BC%9CMendix+Enthusiast%2F%EF%BC%9E)](https://git.io/typing-svg)
 
 🕹️ Developing applications
 
@@ -53,7 +53,10 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ---
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/rod-kristian-rebarbas/) or check out my [portfolio](https://krysseportfolio.vercel.app/)!
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Rod%20Kristian%20Rebarbas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rod-kristian-rebarbas/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://krysseportfolio.vercel.app/)
 
 <!--
 **kryss143/kryss143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
