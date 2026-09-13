@@ -44,8 +44,8 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ### 📊 GitHub Stats
 
-![kryss143's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryss143&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryss143&layout=compact)
+![kryss143's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryss143&show_icons=true&theme=default&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryss143&layout=compact&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kryss143&theme=default)
 
