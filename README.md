@@ -17,6 +17,13 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 
 ---
 
+### 🔗 Connect
+
+<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="70" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="70" height="70" alt="Portfolio" /></a>
+
+---
+
 ### 👀 Profile Views
  
 ![Profile Views](https://komarev.com/ghpvc/?username=kryss143&color=3178C6&style=flat&label=Profile+Views)
@@ -48,11 +55,11 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 ![Mendix](https://img.shields.io/badge/-Mendix-311B92?style=flat&logo=mendix&logoColor=white)
 
 ---
-
+ 
 ### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kryss143&theme=flat&no-frame=true&row=1&column=6)
-
+ 
+![GitHub Trophies](https://github-trophies.vercel.app/?username=kryss143&theme=flat&no-frame=true&row=1&column=6)
+ 
 ---
 
 ### 📊 GitHub Stats
@@ -68,13 +75,6 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 ### 📈 Contribution Activity
 
 ![Activity Graph](https://raw.githubusercontent.com/kryss143/kryss143/output/activity-graph.svg)
-
----
-
-### 🔗 Connect
-
-<a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="70" height="70" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="70" height="70" alt="Portfolio" /></a>
 
 <!--
 **kryss143/kryss143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
