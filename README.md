@@ -47,6 +47,8 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 ![kryss143's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryss143&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryss143&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kryss143&theme=default)
+
 ---
 
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/rod-kristian-rebarbas/) or check out my [portfolio](https://krysseportfolio.vercel.app/)!
