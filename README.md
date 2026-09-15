@@ -11,15 +11,29 @@
 ---
  
 ### 👤 Profile
- 
-A programmer with a strong eagerness to expand knowledge in programming and low-code development, particularly in **Mendix**.
+A software developer passionate about low-code development and enterprise application platforms, currently focused on **Mendix**. I enjoy solving real-world problems through efficient, scalable solutions and I'm always exploring new tools to sharpen my craft.
+
+💡 Currently diving deeper into:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Mendix](https://img.shields.io/badge/-Mendix-311B92?style=flat&logo=mendix&logoColor=white)
+
+🌱 Open to: collaborations, freelance, full-time opportunities, and part-time opportunities
 
 ---
 
 ### 🔗 Connect
 
 <a href="https://www.linkedin.com/in/rod-kristian-rebarbas/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://krysseportfolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Portfolio" style="background-color:white; border-radius:50%; padding:4px;" /></a>&nbsp;&nbsp;
+<a href="https://krysseportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
 <a href="mailto:kristianrebz@gmail.com"><img src="https://api.iconify.design/logos/google-gmail.svg" width="48" height="48" alt="Gmail" /></a>
 
 ---
@@ -53,6 +67,23 @@ A programmer with a strong eagerness to expand knowledge in programming and low-
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Mendix](https://img.shields.io/badge/-Mendix-311B92?style=flat&logo=mendix&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
  
