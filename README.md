@@ -95,7 +95,7 @@ A software developer passionate about low-code development and enterprise applic
 
 ### 📊 GitHub Stats
 
-![kryss143's GitHub stats](https://github-stats-extended.vercel.app/api?username=kryss143&show_icons=true&theme=default)
+![kryss143's GitHub stats](https://github-stats-extended.vercel.app/api?username=kryss143&show_icons=true&theme=default&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews))
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kryss143&layout=compact)
 
